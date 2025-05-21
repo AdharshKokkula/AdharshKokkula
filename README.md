@@ -15,60 +15,75 @@
 
 ---
 
-I'm a passionate and results-oriented B.Tech Computer Science student at Vignana Bharathi Institute of Technology, Hyderabad, specializing in **Full Stack Development (MERN)**, **Machine Learning**, and **Data Analysis**. I thrive on building innovative solutions, tackling complex problems, and continuously exploring new technologies, especially in the realm of AI.
+I'm a passionate and results-oriented B.Tech Computer Science & Design (CSD) student at Vignana Bharathi Institute of Technology, Hyderabad. I specialize in **Full Stack Development (MERN)**, **Machine Learning**, and **Data Analysis**. I thrive on building innovative solutions, tackling complex problems, and continuously exploring new technologies, especially in the realm of AI.
 
-🚀 Currently seeking opportunities to apply my skills and contribute to impactful projects.
+🚀 Currently seeking opportunities to apply my skills and contribute to impactful projects in software development and data-driven domains.
+
+---
+
+## 💡 Key Strengths
+
+*   **Full-Stack Development:** Proficient in the MERN stack (MongoDB, Express.js, React, Node.js) for building end-to-end web applications.
+*   **Problem-Solving & Algorithmic Thinking:** Demonstrated through hackathon successes and competitive programming achievements.
+*   **Machine Learning & AI:** Keen interest and hands-on experience in developing AI-powered applications, including those using LLMs.
+*   **Data Analysis:** Skilled in deriving insights from data using Python libraries and tools like Power BI.
+*   **Collaboration & Leadership:** Proven ability to work effectively in teams and lead initiatives, as shown in club activities and hackathons.
+*   **Quick Learner:** Eager to explore and master new tools and technologies.
 
 ---
 
 ## 🛠️ My Tech Stack
 
-Here's a glimpse of the technologies and tools I work with:
-
 **Languages:**
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
 
-**Frontend Development:**
+**Full Stack (MERN) & Frontend Development:**
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/MERN-Stack-blue?style=flat-square&logo=mongodb&logoColor=white&logoWidth=20&labelColor=023047&color=219EBC" alt="MERN Stack" height="40"/> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/UI_and_user_experience" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/UI/UX_Principles-lightgrey?style=flat-square&logo=figma&logoColor=black" alt="UI/UX Principles" height="40"/> </a>
 </p>
 
-**Backend Development:**
+**Backend Development & APIs:**
 <p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a> 
+  <img src="https://img.shields.io/badge/API_Development-Restful_APIs-orange?style=flat-square&logo=readthedocs&logoColor=white" alt="API Development" height="40"/>
 </p>
 
 **Databases:**
 <p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
 
-**Machine Learning / AI:**
+**Machine Learning / AI / Data Science & Analysis:**
 <p align="left">
-  <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="OpenAI" width="40" height="40"/> </a>
-  <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-blue?style=flat-square" alt="LLM" height="40"/>
-  <img src="https://img.shields.io/badge/PlayHT-Voice%20Generation-orange?style=flat-square" alt="PlayHT" height="40"/>
-  <img src="https://img.shields.io/badge/Gradio-UI%20for%20ML-ff69b4?style=flat-square" alt="Gradio" height="40"/>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/openai-icon.svg" alt="OpenAI" width="40" height="40"/> </a> 
+  <img src="https://img.shields.io/badge/LLMs-GenAI-blueviolet?style=flat-square" alt="LLM" height="40"/> 
+  <img src="https://img.shields.io/badge/PlayHT-Voice%20Synthesis-critical?style=flat-square" alt="PlayHT" height="40"/> 
+  <a href="https://www.gradio.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gradio-UI%20for%20ML-ff69b4?style=flat-square" alt="Gradio" height="40"/></a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> 
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI-Desktop.png" alt="powerbi" width="35" height="35" style="padding-bottom: 2px;"/> </a>
 </p>
 
 **Tools & Platforms:**
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI-Desktop.png" alt="powerbi" width="40" height="40"/> </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a>
 </p>
 
 ---
@@ -90,15 +105,15 @@ Here are some of the projects I'm proud of:
 
 3.  🛠️ **Freelancing Platform For Physical Works**
     *   **Description:** A platform aimed at simplifying the process of finding and vetting skilled professionals for physical works. Includes a real-time application built-in chat system for direct communication.
-    *   **Tech Stack:** `WebTechnologies` (likely MERN stack components)
+    *   **Tech Stack:** `WebTechnologies` (MERN stack components)
     *   **Status:** *Under Deployment*
 
 4.  🌐 **Portfolio Website**
     *   **Description:** My personal portfolio website showcasing my skills, projects, and experiences.
-    *   **Tech Stack:** (Likely `React.js`, `HTML`, `CSS`, and other modern web technologies based on your MERN focus)
-    *   **Link:** [Portfolio-Website](https://github.com/AdharshKokkula/Portfolio-Website) *(Assuming this is the one)*
+    *   **Tech Stack:** `React.js`, `HTML`, `CSS`, `JavaScript`
+    *   **Link:** [Portfolio-Website](https://github.com/AdharshKokkula/Portfolio-Website)
 
-*(You can add more projects here by following the same format)*
+*(Feel free to add more projects here by following the same format)*
 
 ---
 
